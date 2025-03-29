@@ -1,0 +1,44 @@
+body{
+    background-color: #fffcf4cb;
+}
+h1{
+    font-size: 50px;
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+input{
+    border: 2px solid #244624;
+    font-size:34px;
+    height: 25px;
+    width:321px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    margin: 5px;
+}
+
+.box{
+    text-align: center;
+    margin-top:50px
+
+}
+
+table{
+    margin: auto;
+}
+
+button{
+    background-color: rgb(241, 154, 56);
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 60px;
+    height: 50px;
+    margin: 2px;
+}
+
+.calculator{
+    border: 4px solid #000000;
+    background-color: #000000a0;
+    padding: 23px;
+    display: inline-block;
+    text-align: center;
+}
